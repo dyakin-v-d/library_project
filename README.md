@@ -94,7 +94,3 @@ library_project/
 ## 👨‍💻 Автор
 
 - **dyakin-v-d** — [GitHub Profile](https://github.com/dyakin-v-d)
-
-```
-
-```
